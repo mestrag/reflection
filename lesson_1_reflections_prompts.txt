@@ -31,3 +31,5 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
  check in the code 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when i have to work on multiple changes wihout affecting the master branch
