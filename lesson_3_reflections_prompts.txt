@@ -10,3 +10,7 @@ branch - branch is created out of the repository
 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+seperate branches allows us to make specific changes like bug fixes while working directly on the branches will not requires multiple merges(pull and push) like staying up to date with the changes others are making
