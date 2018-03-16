@@ -36,3 +36,8 @@ when i have to work on multiple changes wihout affecting the master branch
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 merging helps to merge our chnages to the master for deployment. It is useful in diagram because it represents which branch we are now.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+git merge will tell you where the conficts is whereas doing merges manually will be painful task if there are thousands of lines of code to resolve the conflicts
+Also git merge takes the working branch and lets you to merge to master for live ready code.
